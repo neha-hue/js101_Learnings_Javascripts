@@ -1,0 +1,17 @@
+console.log("*@****@***@***REPORT CARD OF THE STUDENT*@****@***@***");
+let name="Arun Jaiswal";
+let school="Vidya Varidhi Vidyalaya";
+let grade="A";
+let section="B";
+let rollno=12;
+let subject1=90;
+let subject2=90;
+let subject3=90;
+console.log(school);
+console.log("Student Name:",name);
+console.log("Section:",section);
+console.log("Rollno:",rollno);
+console.log("Subject1 marks:",subject1);
+console.log("Subject2 marks:",subject2);
+console.log("Subject3 marks:",subject3);
+console.log("Grade:",grade);
